@@ -1,0 +1,6 @@
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\GETest\rovertest\rovertest\bin\Debug\rovertest.exe.config
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\GETest\rovertest\rovertest\obj\Debug\rovertest.csprojResolveAssemblyReference.cache
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\GETest\rovertest\rovertest\bin\Debug\rovertest.exe
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\GETest\rovertest\rovertest\bin\Debug\rovertest.pdb
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\GETest\rovertest\rovertest\obj\Debug\rovertest.exe
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\GETest\rovertest\rovertest\obj\Debug\rovertest.pdb
